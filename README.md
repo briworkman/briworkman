@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bri, I am a software developer with have a passion for building exceptional, high-quality websites and applications for the web, iOS, and Android.
+I'm Bri, I am a full stack developer with have a passion for building exceptional, high-quality websites and applications for the web, iOS, and Android.
 
 - 🔭 I’m currently mentoring students at [Lambda School](https://lambdaschool.com/)
 - 🌱 I’m currently learning TypeScript & Angular
