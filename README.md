@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bri, I am a full stack developer with a passion for building exceptional, high-quality websites and applications for the web, iOS, and Android.
+I'm Bri, I am a front end software engineer with a passion for building exceptional, high-quality websites and applications for the web!
 
 - 💻  I'm currently working at [Nerdery](https://www.nerdery.com/)
 - 🌳  I’m currently learning Vue
