@@ -19,5 +19,3 @@ I'm Bri! I am a front end software engineer with a passion for building exceptio
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/briworkman/briworkman/master/icons/typescript.svg?raw=true"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/briworkman/briworkman/master/icons/react.svg?raw=true"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/briworkman/briworkman/master/icons/vue.svg?raw=true"/> </a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=briworkman&show_icons=true&theme=gotham" alt="Brianna's GitHub stats" />
