@@ -5,7 +5,7 @@ I'm Bri! I am a front end software engineer with a passion for building exceptio
 - 💻  I'm currently working at [Nerdery](https://www.nerdery.com/)
 - 🌳  I’m currently learning Vue
 - 💬  Ask me about [BloomTech](https://www.bloomtech.com/) or Nerdery
-- 📫  How to reach me: brianna-workman@lambdastudents.com
+- 📫  How to reach me: briworkman9@gmail.com
 - 💼  Connect with me on [LinkedIn](https://www.linkedin.com/in/brianna-m-workman/)
 - 😄  Pronouns: she/her/hers
 - ⚡  Fun fact: I have a clownfish named Nemo 🐠
